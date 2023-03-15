@@ -5,7 +5,7 @@
 <div align="center">
   <!-- <a href=https://github.com/DaronBecaus> -->
   <img height=180em src=https://github-readme-stats.vercel.app/api?username=DaronBecaus&show_icons=true&theme=codeSTACKr>
-  <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&layout=compact&theme=codeSTACKr>
+  <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&layout=demo&theme=codeSTACKr>
 </div>
   
 <hr>
