@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+My+name+is+Daniel+Sodré;I+from+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <hr>
-
+<!-- &theme=codeSTACKr -->
 <div align="center">
   <!-- <a href=https://github.com/DaronBecaus> -->
-  <img height=180em src=https://github-readme-stats.vercel.app/api?username=DaronBecaus&show_icons=true&theme=codeSTACKr>
-  <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&layout=compact&theme=codeSTACKr>
+  <img height=180em src=https://github-readme-stats.vercel.app/api?username=DaronBecaus&show_icons=true>
+  <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&layout=compact>
 </div>
   
 <hr>
