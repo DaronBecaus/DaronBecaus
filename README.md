@@ -3,8 +3,8 @@
 <hr>
 
 <div align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=DaronBecaus&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=codeSTACKr>
-  <img height=443em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&theme=codeSTACKr>
+  <img height=180em src=https://github-readme-stats.vercel.app/api?username=DaronBecaus&theme=codeSTACKr>
+  <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&theme=codeSTACKr>
 </div>
 
 <hr>
