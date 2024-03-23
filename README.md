@@ -4,7 +4,7 @@
 
 <div align="center">
   <img height=200em src=https://github-readme-stats.vercel.app/api?username=DaronBecaus&theme=codeSTACKr>
-  <img height=200em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&theme=codeSTACKr>
+  <img height=200em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&theme=codeSTACKr&layout=compact>
 </div>
 
 <hr>
