@@ -2,9 +2,10 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaronBecaus&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=codeSTACKr)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&layout=compact&theme=codeSTACKr)
+<div align="center">
+  <img height=180em src=https://github-readme-stats.vercel.app/api?username=DaronBecaus&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=codeSTACKr>
+  <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&layout=compact&theme=codeSTACKr>
+</div>
 
 <hr>
   
